@@ -1,0 +1,17 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 1,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "images": [
+    "resources/ConferencePoster.jpg",
+    "resources/Strong_Painting.jpg",
+    "resources/Coffee.jpg"
+  ],
+  "imageViewRectangle": null,
+  "zoomable": true,
+  "caption": null
+}

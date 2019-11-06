@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 10,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "label": "Dwight Baldwin died:",
+  "solution": {
+    "correctDate": "03.01.1886"
+  }
+}

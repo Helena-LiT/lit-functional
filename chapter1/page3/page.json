@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "title": "Page functionality test with continue randomly",
+  "continueRandomly": true,
+  "timerVisible": false,
+  "endOfTopic": false,
+  "time": null,
+  "money": {
+    "amount": null
+  },
+  "chapter": null
+}

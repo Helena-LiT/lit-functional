@@ -1,0 +1,11 @@
+{
+  "id": null,
+  "numberOfColumns": 10,
+  "offsetColumns": 1,
+  "renderOrder": 3,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "descriptionForNotebook": null,
+  "isMandatory": true
+}

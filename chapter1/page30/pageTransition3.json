@@ -1,0 +1,25 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/page1/page.json",
+  "buttonText": "continue to page1 (this is only shown if you were not on page1 or not on page2)",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": null
+  },
+  "criteria": [
+    {
+      "pageCriteria": "notVisitedAny",
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPagesIds": [
+        "chapter1/page1/page.json",
+        "chapter1/page2/page.json"
+      ],
+      "affectedMail": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "title": "Enter Date",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "endOfTopic": false,
+  "money": {
+    "amount": null
+  },
+  "time": null,
+  "chapter": null
+}

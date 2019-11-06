@@ -1,0 +1,14 @@
+{
+  "id": null,
+  "title": "Page transition example for pageCriteria timeExpiration, first Page",
+  "continueRandomly": false,
+  "timerVisible": true,
+  "endOfTopic": false,
+  "time": {
+    "time": 20
+  },
+  "money": {
+    "amount": null
+  },
+  "chapter": null
+}

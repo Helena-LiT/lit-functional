@@ -1,0 +1,19 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 2,
+  "descriptionForNotebook": null,
+  "page": null,
+  "exerciseState": null,
+  "placeholderText": "do not put in some text!",
+  "defaultText": "",
+  "maxLength": null,
+  "textSolutions": [
+    {
+      "textToCompare": "some text",
+      "minLength": null,
+      "mode": "fullMatch"
+    }
+  ]
+}

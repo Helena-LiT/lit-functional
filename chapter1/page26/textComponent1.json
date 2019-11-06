@@ -1,0 +1,8 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 1,
+  "page": null,
+  "markdownContent": "Player should get initially 100 EURO. When player transition to next page he should have 200 EUR more on his account becasue of transition"
+}

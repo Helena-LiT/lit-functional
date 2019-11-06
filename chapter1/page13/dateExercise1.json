@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 2,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "label": "Please enter the date:",
+  "solution": {
+    "correctDate": "02.02.2020"
+  }
+}

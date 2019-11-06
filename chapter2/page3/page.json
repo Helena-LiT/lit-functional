@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "Timer should be shown",
+  "continueRandomly": false,
+  "time": {
+    "time": 10
+  },
+  "timerVisible": true,
+  "endOfTopic": false,
+  "money": {
+    "amount": null
+  },
+  "chapter": null,
+  "storyline": null
+}

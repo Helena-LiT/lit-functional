@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/page25/page.json",
+  "buttonText": "If you didn't visit the page 333, than this transition will be avaliable",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": "notVisited",
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": "chapter1/page333/page.json",
+      "affectedMail": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/page28/page.json",
+  "buttonText": "Continue to page28 will cost you 100EUR",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": -100
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

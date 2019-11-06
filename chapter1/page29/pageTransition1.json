@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter2/page1/page.json",
+  "buttonText": "Continue to chapter2 (this transition is only shown, if the timer is expired)",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": null
+  },
+  "criteria": [
+    {
+      "pageCriteria": "timeExpiration",
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": "chapter1/page28/page.json",
+      "affectedMail": null
+    }
+  ]
+}

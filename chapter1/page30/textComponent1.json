@@ -1,0 +1,8 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 1,
+  "page": null,
+  "markdownContent": "This is the example for pageCriteria timeExpiration.<br>If you had waited at the last page that the timer had exipred, then a second pagetransition should be shown."
+}

@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/page12/page.json",
+  "buttonText": "Continue to exercise functional testing radio button exercise ",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "noInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/page11/textExercise1.json",
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}
