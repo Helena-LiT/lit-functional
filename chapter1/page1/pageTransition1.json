@@ -2,7 +2,7 @@
   "id": null,
   "from": null,
   "to": "chapter1/page2/page.json",
-  "buttonText": "Why start with functional testing?",
+  "buttonText": "Start with functional testing?",
   "time": {
     "time": 0
   },
