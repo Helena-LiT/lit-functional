@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "Page functionality test with timer and video component",
+  "title": "Page functionality test with timer and video component; console.log(\"hi mum\");",
   "continueRandomly": false,
   "timerVisible": false,
   "endOfTopic": false,
