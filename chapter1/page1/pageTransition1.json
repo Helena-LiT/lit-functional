@@ -2,7 +2,7 @@
   "id": null,
   "from": null,
   "to": "chapter1/page2/page.json",
-  "buttonText": "Start with functional testing? /Coffeex.jpg",
+  "buttonText": "Start with functional testing? resources/Coffeex.jpg",
   "time": {
     "time": 0
   },
