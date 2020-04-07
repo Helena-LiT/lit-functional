@@ -7,5 +7,5 @@
   "showInNotebookAt": "pageEnter",
   "page": null,
   "video": "resources/video.mp4",
-  "caption": "<a href='https://www.gohawaii.com/'>Hawaii’s</a> <strong>Last Sugar Mill</strong> Wraps Up Final Harvest"
+  "caption": "console.log(\"hello world\");"
 }
