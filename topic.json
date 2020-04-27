@@ -3,6 +3,6 @@
   "title": "Demo Topic (First chapter functional testing, second chapter design)",
   "icon": null,
   "active": true,
-  "image": "resources/Strong_Painting.jpg",
+  "image": "resources/social-default-logo.png",
   "startPage": "chapter1/page1/page.json"
 }
